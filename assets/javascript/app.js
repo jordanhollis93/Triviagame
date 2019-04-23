@@ -9,7 +9,7 @@ var questions = [
       ]
     },
     {
-      question: 'What is NOT an HTML5 element?',
+      question: 'What is not an HTML5 element?',
       answers: [
         { answer: 'block', value: true },
         { answer: 'audio', value: false },
